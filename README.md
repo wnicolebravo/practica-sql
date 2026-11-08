@@ -13,4 +13,5 @@ Ejercicios de SQL sobre PostgreSQL 16 (Docker).
 - Los datos tienen nulos, duplicados y montos negativos a propósito.
 
 ## Observaciones
-- (Lo que te llamó la atención de los datos: el caso de Diego, el NULL de Bruno, el -50 de Fede…)
+- EJERCITACION BASICA DE SQL PARA PREPARACION
+
